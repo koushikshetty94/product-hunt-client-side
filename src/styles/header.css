@@ -1,0 +1,55 @@
+.hero {
+  background: white;
+  margin: -10px -10px 70px -10px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  align-items: center;
+  height: 74px;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  margin-left: 140px;
+}
+
+.input_Box {
+  color: #6f6f6f;
+  border: 1px solid #e8e8e8;
+  border-radius: 3px;
+  padding: 10px;
+  font-size: 13.5px;
+  margin: 0px 15px;
+}
+
+.input_Font {
+  padding-left: 10px;
+  padding-right: 50px;
+}
+
+.hero_Heading {
+  color: #6f6f6f;
+  margin: 0px 10px;
+  font-size: 16px;
+}
+
+.login {
+  padding: 9px 12px;
+  border-radius: 3px;
+  background: white;
+  border: 1px solid #e8e8e8;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 24px;
+}
+
+.signup {
+  background: #cc4d29;
+  color: white;
+  border: none;
+  margin-left: 5px;
+}
